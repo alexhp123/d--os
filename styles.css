@@ -98,11 +98,12 @@ body, html {
       box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
   }
   .weather-card {
-      background: #66eb90c7;
+     background: #e1f5fe42;
       padding: 15px;
-      border-radius: 10px;
-      color: white;
-      text-align: center;
+      border-radius: 5px;
+      margin-top: 15px;
+      overflow-x: hidden;
+      width: 250px;
   }
   .energy-card {
       background: #e1f5fe42;
